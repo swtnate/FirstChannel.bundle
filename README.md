@@ -1,0 +1,4 @@
+FirstChannel.bundle
+===================
+
+First Channel
